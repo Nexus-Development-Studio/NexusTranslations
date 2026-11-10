@@ -1,0 +1,20 @@
+{
+    "error": "Une erreur est survenue, veuillez vérifier les erreurs dans la console",
+    "downloadHere": "Télécharger la ici",
+    "upToDate": "est à jour !",
+    "success": "Opération réussie !",
+    "reloaded": "La configuration a été rechargée avec succès. Pour que les messages soient mis à jour sur tous les plugins, vous devrez recharger chaque plugin individuellement.",
+    "missingArgs": "&cIl manque des arguments dans votre commande ! Syntaxe : &6%s1%",
+    "support500": "&cErreur détectée, veuillez le signaler à l'équipe de support !",
+    "support403": "&cLe code de support que vous avez fourni est incorrect !",
+    "support401": "&cVous ne pouvez utiliser ce code que sur une seule adresse IP !",
+    "supportDownloaded": "&aLe plugin de support à distance a été mis à jour ! Veuillez redémarrer votre serveur pour démarrer la session.",
+    "supportFinish": "&aVeuillez redémarrer votre serveur pour terminer la session de support à distance !",
+    "supportFinishError": "&cErreur de logiciel, merci de le signaler à l'équipe d'assistance. Fermeture de la session d'assistance.",
+    "noSupport": "&cVotre serveur n'a pas de session de support à distance active !",
+    "supportLink": "&eVisitez notre Discord pour obtenir de l'aide !",
+    "checkedUpdate": "&eRecherche de mises à jour en cours !",
+    "updateAvailableConsole": "Une mise à jour est disponible pour",
+    "updateAvailablePlayer1": "&eAn update is available for &6%s1%&e! Download it",
+    "here": "&6 here"
+}

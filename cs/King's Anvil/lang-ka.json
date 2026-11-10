@@ -1,0 +1,16 @@
+{
+  "locsList": "List of spawning locations",
+  "clickTp": "Click to teleport",
+  "success": "Success",
+  "saved": "Data saved to the files!",
+  "pickUp": "The %s2% was picked up by %s1%!",
+  "name": "King's Anvil",
+  "holderDisconnected": "%s1% disconnected, but they were holding the %s2%.",
+  "holderKilled": "%s1% was killed by %s2%, but they were holding the %s3%. %s2% is the new holder.",
+  "you": "You",
+  "noOne": "Nikdo",
+  "alreadyOn": "A %s1% event is already running!",
+  "leaderboard": "Nejsou záďne odmeni nastaveni v file",
+  "noRewards": "There are no rewards configured in the file!",
+  "noHolder": "No one was holding the anvil when the event finished!"
+}

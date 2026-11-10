@@ -1,0 +1,23 @@
+{
+    "prefix": "&8[&6OutOfTime&8] » &r",
+    "outOfTime": "Out of time!",
+    "outOfTimeBody": "&cAsk someone to revive you to keep playing!",
+    "okay": "Okay",
+    "bossKill": "&aYou've earned %s1% from killing %s2%",
+    "revivalItemName": "&bPlayer reviver",
+    "revivalItemLore": "&r&8Right click this item to revive a player",
+    "revivalGuiTitle": "Revive players",
+    "close": "&cClose",
+    "clickRevive": "&r&eClick to revive",
+    "pvpLoss": "&cYou lost %s1% from dying to %s2%!",
+    "pvpGain": "&aYou gained %s1% from killing %s2%!",
+    "syphonSteal": "&aYou syphoned %s1% from %s2%",
+    "syphonLoss": "&cYou were syphoned %s1% by %s2%",
+    "elytraLore": "&8Consumes %s1% per second flying",
+    "voucherName": "&eVoucher",
+    "voucherLore": "&8Right-click this item to redeem %s1%",
+    "notEnoughTime": "&cYou don't have enough time left to do this!",
+    "voucherCreated": "&aYou created a %s1% voucher!",
+    "voucherConsumed": "&aYou consumed a %s1% voucher!",
+    "voucherUsage": "&cExample use: /voucher 3d 4h 45m"
+}

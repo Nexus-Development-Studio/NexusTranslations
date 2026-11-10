@@ -1,0 +1,20 @@
+{
+    "fetched": "Fetch finished! Fetched %s1% words in %s2% ms!",
+    "noPerm": "You don't have permission to use this command!",
+    "reloaded": "The plugin has been reloaded!",
+    "filterList": "List of manually blocked words:",
+    "filterListPage": "Page %s1%/%s2%",
+    "wrongPage": "Wrong page number",
+    "alreadyBlocked": "This word sequence is already blocked!",
+    "notBlocked": "This word sequence is not blocked!",
+    "wordsBlocked": "%s1% word sequence(s) were blocked in your last message!",
+    "messageBlocked": "Your last message was blocked by the chat filter!",
+    "pageDoesntExist": "This page doesn't exist!",
+    "wasAdded": "%s1% was added to the list!",
+    "wasRemoved": "%s1% was removed from the list!",
+    "help-1": "List of commands:",
+    "help-2": "- /cw reload - reloads the configuration and word lists",
+    "help-3": "- /cw filter - shows the list of manually blocked words",
+    "help-4": "- /cw filter add <word sequence> - adds a sequence to the list of manually blocked words",
+    "help-5": "- /cw filter remove <word sequence> - removes a sequence from the list of manually blocked words"
+}

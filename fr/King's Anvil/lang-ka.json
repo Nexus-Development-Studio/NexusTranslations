@@ -1,0 +1,16 @@
+{
+  "locsList": "Liste des emplacements d'apparition",
+  "clickTp": "Cliquez pour vous téléporter",
+  "success": "Opération réussie",
+  "saved": "Données enregistrées dans les fichiers !\n",
+  "pickUp": "L' %s2% a été ramassé(e) par %s1%!",
+  "name": "Enclume du Roi",
+  "holderDisconnected": "%s1% s'est déconnecté, mais il tenait la %s2%.",
+  "holderKilled": "%s1% a été tué par %s2%, mais ils tenaient la %s3%. %s2% est le nouveau porteur.",
+  "you": "Vous",
+  "noOne": "Personne",
+  "alreadyOn": "Un événement %s1% est déjà en cours !",
+  "leaderboard": "Classement: ",
+  "noRewards": "Il n'y a aucune récompense configurée dans le fichier!",
+  "noHolder": "Personne ne tenait l'enclume à la fin de l'événement!"
+}

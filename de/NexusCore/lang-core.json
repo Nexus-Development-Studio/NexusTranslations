@@ -1,0 +1,20 @@
+{
+    "error": "Ein Fehler ist aufgetreten. Bitte überprüfe die Konsole auf Fehler",
+    "downloadHere": "Hier herunterladen",
+    "upToDate": "ist auf dem aktuellen Stand",
+    "success": "Erfolgreich!",
+    "reloaded": "Die Konfiguration wurde erfolgreich neu geladen. Damit die Nachrichten auf allen Plugins aktualisiert werden können, muss jedes Plugin einzeln neu geladen werden.",
+    "missingArgs": "&cYou are missing arguments in your command! Syntax: &6%s1%",
+    "support500": "&cSoftware error, please report this to the support team!",
+    "support403": "&cThe support code you provided is incorrect!",
+    "support401": "&cYou can only use this code on a single IP!",
+    "supportDownloaded": "&aThe remote support plugin has been updated! Please restart your server to start the session.",
+    "supportFinish": "&aPlease restart your server to finish the remote support session!",
+    "supportFinishError": "&cSoftware error, please report this to the support team. Still shutting down the support session.",
+    "noSupport": "&cYour server doesn't have an active remote support session!",
+    "supportLink": "&eVisit our Discord to get support!",
+    "checkedUpdate": "&eChecking updates!",
+    "updateAvailableConsole": "Ein Update ist verfügbar für",
+    "updateAvailablePlayer1": "&eAn update is available for &6%s1%&e! Download it",
+    "here": "&6 here"
+}

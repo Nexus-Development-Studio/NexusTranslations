@@ -1,0 +1,20 @@
+{
+    "fetched": "Récupération terminée ! %s1% mots ont été récupérés en %s2% ms !",
+    "noPerm": "Vous n'avez pas la permission d'utiliser cette commande !",
+    "reloaded": "Le plugin a été rechargé !",
+    "filterList": "Liste des mots bloqués manuellement :",
+    "filterListPage": "Page %s1%/%s2%",
+    "wrongPage": "Mauvais numéro de page",
+    "alreadyBlocked": "Cette séquence de mots est déjà bloquée !",
+    "notBlocked": "Cette séquence de mots n'est pas bloquée !",
+    "wordsBlocked": "La séquence de mots %s1% a été bloquée dans votre dernier message !",
+    "messageBlocked": "Votre dernier message a été bloqué par le filtre de chat !",
+    "pageDoesntExist": "Cette page n'existe pas !",
+    "wasAdded": "%s1% a été ajouté à la liste !",
+    "wasRemoved": "%s1% a été retiré de la liste !",
+    "help-1": "Liste des commandes :",
+    "help-2": "- /cw reload - recharge la configuration et les listes de mots",
+    "help-3": "- /cw filter - affiche la liste des mots bloqués manuellement",
+    "help-4": "-/cw filter add <word sequence> - ajoute une séquence à la liste des mots bloqués manuellement",
+    "help-5": "- /cw filter remove <word sequence> - supprime une séquence de la liste des mots bloqués manuellement"
+}
